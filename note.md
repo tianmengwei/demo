@@ -28,9 +28,9 @@
 
 5. 通过github年度报告让你记忆最深刻的信息有哪些
 
-[2016年度报告链接](https://octoverse.github.com/)
+ [Github 2016年度报告链接](https://octoverse.github.com/)
 
-当前最受欢迎的语言：JavaScript第一;Java第二；Python第三
+ 当前最受欢迎的语言：JavaScript第一;Java第二；Python第三
 
 6. github上可以有个人账号,还可以有（组织）账号
 
@@ -46,27 +46,31 @@
 
 9. 主页菜单都包含什么
 
-Overview   Repositories  Stars  Followers  Following
+ Overview   Repositories  Stars  Followers  Following
   
 10. 仓库的心跳线代表什么
 
-Pulse是体现该仓库软件开发活跃度的功能
+ Pulse是体现该仓库软件开发活跃度的功能
    
 11. star的作用是？
 
-star的作用是收藏项目，目的是方便以后查找
+ star的作用是收藏项目，目的是方便以后查找
 
 12. fork的作用是？
 
-fork 的作用是参与项目，目的是你增加新的内容，然后 Pull Request，把你的修改和主仓库原来的内容合并.
-13.watch的作用是？
+ fork的作用是参与项目，目的是你增加新的内容，然后 Pull Request，把你的修改和主仓库原来的内容合并.
 
-watch的作用是关注项目，目的是等作者更新的时候，你可以收到通知.
-14.搜索结果分别有哪些类别
+13. watch的作用是？
 
-Repositories  Code  Commits  Issues  Wikis  Users
-15.你在github上挖到什么宝(挖宝，即搜索)
-大牛和项目:《Node.js 包教不包会》by alsotang;RuanYiFeng的jstraining仓库;老齐的StartLearningPython仓库
+ watch的作用是关注项目，目的是等作者更新的时候，你可以收到通知.
+
+14. 搜索结果分别有哪些类别
+
+ Repositories  Code  Commits  Issues  Wikis  Users
+
+15. 你在github上挖到什么宝(挖宝，即搜索)
+
+ 大牛和项目:《Node.js 包教不包会》by alsotang;RuanYiFeng的jstraining仓库;老齐的StartLearningPython仓库
 
 
 ## Github问题集（2）
@@ -76,14 +80,15 @@ Repositories  Code  Commits  Issues  Wikis  Users
 * New repository(新建仓库)
 * Import repository (导入仓库)  
 * New gist(创建代码片段)       
-*New organization(创建组织)
+* New organization(创建组织)
                           
 2. 如何能将仓库中的html文件直接解析成页面？
   
-Settings->将默认的None改为master branch->Save
+ Settings->将默认的None改为master branch->Save
+
 3. 如何删除仓库
 
-Settings->Delete this repository->写上仓库名字->确认删除
+ Settings->Delete this repository->写上仓库名字->确认删除
 
 4. Bash是什么操作系统的命令：Linux系统
 
@@ -140,20 +145,21 @@ Settings->Delete this repository->写上仓库名字->确认删除
 
 ## MarkDown相关问题整理
 
-[markdown学习网址](http://www.markdown.cn/）
+ [markdown学习网址](http://www.markdown.cn/)
 
 1. MarkDown是什么
 
-Markdown是一个web上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档
+ Markdown是一个web上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档
   
-Github，Stackoverflow，有道云，思维导读等网站均支持这种格式
+ Github，Stackoverflow，有道云，思维导读等网站均支持这种格式
+
 2. MarkDown的特点
 
-兼容HTML  在线观看 平台支持 排版样式简单
+ 兼容HTML 在线观看 平台支持 排版样式简单
   
 3. MarkDown的用途
 
-IT人士：写日志、技术文稿、记录代码片段、撰写文档
+ IT人士：写日志、技术文稿、记录代码片段、撰写文档
 
 4. MarkDown的编辑工具有哪些
  
